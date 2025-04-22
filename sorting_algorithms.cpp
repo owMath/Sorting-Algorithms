@@ -1,3 +1,5 @@
+// Alunos: Matheus Paul Lopuch e Leonardo Augusto Dolvitsch
+
 #include <iostream>
 #include <vector>
 #include <random>
