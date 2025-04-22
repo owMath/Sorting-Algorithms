@@ -1,3 +1,5 @@
+# Alunos: Matheus Paul Lopuch e Leonardo Augusto Dolvitsch
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
