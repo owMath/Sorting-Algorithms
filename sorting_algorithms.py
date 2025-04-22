@@ -1,3 +1,5 @@
+# Alunos: Matheus Paul Lopuch e Leonardo Augusto Dolvitsch
+
 import time
 import random
 import matplotlib.pyplot as plt
